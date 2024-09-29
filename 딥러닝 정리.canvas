@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"1b131fbb560d69fe","type":"group","x":-460,"y":-153,"width":2020,"height":1273,"color":"6","label":"3. Concpets in deep learning "},
+		{"id":"78b18ced0cb6a380","type":"text","text":"# 5. What is an artificial neural network?\n\n딥러닝 모델은 비선형 문제에 아주 강함.\n\n![](5.Pasted%20image%2020240928194835.png)\n\n각 유닛들은 간단한 방정식을 가지고 있으며, 이들을 합쳐 복잡한 연산을 생성\n\n용도에 따라 다양한 모델들이 존재하지만, 기본적으로 유사성이 많다.","x":-440,"y":-140,"width":580,"height":480},
+		{"id":"5173f9be140cc74e","x":160,"y":-140,"width":560,"height":480,"type":"text","text":"## 6. How models \"learn\" \n\n![](6.Pasted%20image%2020240928212509.png)\n\n<span style=\"color:rgb(236, 158, 111)\">순전파: 돈/서비스가 네트워크를 통해 흐른다</span>\n<span style=\"color:rgb(230, 122, 122)\">역전파 : '오류 메시지'가 사장에게서 다시 부서들을 거쳐 내려온다.</span> \n\n\t중요 개념 : 오류 메시지가 최상위에 있는 오너에게 전달된다는 것. 오너는 마케팅 팀에게 \"상황을 개선하라\"고 지시하고, 이들은 주방 팀에게 \"개선을 위해 무언가를 바꾸라\"고 말하는 식으로 전파됨"}
+	],
+	"edges":[]
+}
